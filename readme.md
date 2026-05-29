@@ -25,7 +25,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/YourUsername/Enterprise-RAG-System.git
+https://github.com/kinglintion/Enterprise-RAG-System.git
 cd Enterprise-RAG-System
 ```
 
